@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SONY\\Downloads\\ZoomCars (3)\\ZoomCars\\ZoomCars\\ZoomCars.csproj": {}
+    "C:\\Users\\SONY\\Downloads\\VroomCars (3)\\VroomCars\\ZoomCars\\Vroom cars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SONY\\Downloads\\ZoomCars (3)\\ZoomCars\\ZoomCars\\ZoomCars.csproj": {
+    "C:\\Users\\SONY\\Downloads\\VroomCars (3)\\VroomCars\\ZoomCars\\Vroom cars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SONY\\Downloads\\ZoomCars (3)\\ZoomCars\\ZoomCars\\ZoomCars.csproj",
-        "projectName": "ZoomCars",
-        "projectPath": "C:\\Users\\SONY\\Downloads\\ZoomCars (3)\\ZoomCars\\ZoomCars\\ZoomCars.csproj",
+        "projectUniqueName": "C:\\Users\\SONY\\Downloads\\VroomCars (3)\\VroomCars\\ZoomCars\\Vroom cars.csproj",
+        "projectName": "Vroom cars",
+        "projectPath": "C:\\Users\\SONY\\Downloads\\VroomCars (3)\\VroomCars\\ZoomCars\\Vroom cars.csproj",
         "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SONY\\Downloads\\ZoomCars (3)\\ZoomCars\\ZoomCars\\obj\\",
+        "outputPath": "C:\\Users\\SONY\\Downloads\\VroomCars (3)\\VroomCars\\ZoomCars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
